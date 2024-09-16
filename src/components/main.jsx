@@ -7,7 +7,7 @@ const Home = () => {
         <div className="card bg-dark text-white border-0 mx-3">
           <img
             className="card-img img-fluid"
-            src="shopping bg image.jpg"
+            src="https://png.pngtree.com/thumb_back/fh260/back_our/20190619/ourmid/pngtree-taobao-vector-creative-technology-online-shopping-illustration-computer-finger-poster-image_131803.jpg"
             alt="Card"
             height={400}
           />
